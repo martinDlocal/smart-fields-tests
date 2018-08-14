@@ -1,7 +1,9 @@
 pipeline {
     stages {
         stage('Build') { 
-             docker.image("backstopjs/backstopjs").withRun('test')
+            steps {
+                sh 'docker run --rm -v $(pwd):/src backstopjs/backstopjs test'
+            }
         }
     }
 }
