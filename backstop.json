@@ -1,0 +1,132 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "viewport 320",
+      "width": 320,
+      "height": 640
+    },
+    {
+      "label": "viewport 360",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "label": "viewport 375",
+      "width": 375,
+      "height": 640
+    },
+    {
+      "label": "viewport 411",
+      "width": 411,
+      "height": 640
+    },
+    {
+      "label": "viewport 414",
+      "width": 414,
+      "height": 640
+    },
+    {
+      "label": "viewport 768",
+      "width": 414,
+      "height": 640
+    },
+    {
+      "label": "viewport 1024",
+      "width": 414,
+      "height": 640
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "Satandard fields test",
+      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/standard.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Satandard fields test fill: number",
+      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/standard.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.1,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/fillValidCreditCard.js"
+    },
+    {
+      "label": "Satandard fields test fill: expiration",
+      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/standard.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.1,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/fillvalidExpirationDate.js"
+    },
+    {
+      "label": "Satandard fields test fill: cvv",
+      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/standard.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.1,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/fillValidCVV.js"
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
