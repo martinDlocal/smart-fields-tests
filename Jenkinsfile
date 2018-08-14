@@ -1,14 +1,7 @@
 pipeline {
-    agent {
-        docker {
-            image 'backstopjs/backstopjs' 
-        }
-    }
     stages {
         stage('Build') { 
-            steps {
-                sh 'test' 
-            }
+             docker.image("backstopjs/backstopjs").withRun('test')
         }
     }
 }
