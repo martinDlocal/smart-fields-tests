@@ -7,12 +7,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                sh 'npm install -g backstopjs' 
-            }
-        }
-        stage('Test') { 
-            steps {
-                sh 'backstopjs test' 
+                sh 'test' 
             }
         }
     }
