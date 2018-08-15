@@ -1,10 +1,10 @@
 report({
-  "testSuite": "BackstopJS",
+  "testSuite": "backstopJS",
   "tests": [
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
         "label": "Satandard fields test",
@@ -28,7 +28,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
         "label": "Satandard fields test",
@@ -52,7 +52,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
         "label": "Satandard fields test",
@@ -76,7 +76,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
         "label": "Satandard fields test",
@@ -100,7 +100,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
         "label": "Satandard fields test",
@@ -124,7 +124,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
         "label": "Satandard fields test",
@@ -148,7 +148,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
         "label": "Satandard fields test",
@@ -172,7 +172,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
         "label": "Satandard fields test fill: number",
@@ -188,17 +188,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.54",
-          "analysisTime": 328
+          "misMatchPercentage": "0.29",
+          "analysisTime": 168
         },
-        "diffImage": "../bitmaps_test/20180814-213312/failed_diff_backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png"
+        "diffImage": "../bitmaps_test/20180815-174915/failed_diff_backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
         "label": "Satandard fields test fill: number",
@@ -222,7 +222,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
         "label": "Satandard fields test fill: number",
@@ -246,7 +246,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
         "label": "Satandard fields test fill: number",
@@ -270,7 +270,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
         "label": "Satandard fields test fill: number",
@@ -294,7 +294,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
         "label": "Satandard fields test fill: number",
@@ -318,7 +318,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
         "label": "Satandard fields test fill: number",
@@ -342,7 +342,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
         "label": "Satandard fields test fill: expiration",
@@ -358,17 +358,16 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.15",
-          "analysisTime": 363
-        },
-        "diffImage": "../bitmaps_test/20180814-213312/failed_diff_backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png"
+          "misMatchPercentage": "0.07",
+          "analysisTime": 265
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
         "label": "Satandard fields test fill: expiration",
@@ -384,8 +383,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.10",
-          "analysisTime": 332
+          "misMatchPercentage": "0.06",
+          "analysisTime": 357
         }
       },
       "status": "pass"
@@ -393,7 +392,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
         "label": "Satandard fields test fill: expiration",
@@ -409,17 +408,16 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.12",
-          "analysisTime": 230
-        },
-        "diffImage": "../bitmaps_test/20180814-213312/failed_diff_backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png"
+          "misMatchPercentage": "0.03",
+          "analysisTime": 343
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
         "label": "Satandard fields test fill: expiration",
@@ -436,7 +434,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.03",
-          "analysisTime": 687
+          "analysisTime": 344
         }
       },
       "status": "pass"
@@ -444,7 +442,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
         "label": "Satandard fields test fill: expiration",
@@ -461,16 +459,16 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.11",
-          "analysisTime": 397
+          "analysisTime": 307
         },
-        "diffImage": "../bitmaps_test/20180814-213312/failed_diff_backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png"
+        "diffImage": "../bitmaps_test/20180815-174915/failed_diff_backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
         "label": "Satandard fields test fill: expiration",
@@ -486,8 +484,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.07",
-          "analysisTime": 261
+          "misMatchPercentage": "0.04",
+          "analysisTime": 244
         }
       },
       "status": "pass"
@@ -495,7 +493,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
         "label": "Satandard fields test fill: expiration",
@@ -511,8 +509,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.04",
-          "analysisTime": 260
+          "misMatchPercentage": "0.05",
+          "analysisTime": 239
         }
       },
       "status": "pass"
@@ -520,7 +518,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
         "label": "Satandard fields test fill: cvv",
@@ -536,8 +534,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 249
+          "misMatchPercentage": "0.05",
+          "analysisTime": 115
         }
       },
       "status": "pass"
@@ -545,7 +543,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
         "label": "Satandard fields test fill: cvv",
@@ -561,7 +559,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 182
         }
       },
       "status": "pass"
@@ -569,7 +568,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
         "label": "Satandard fields test fill: cvv",
@@ -585,7 +584,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.05",
+          "analysisTime": 322
         }
       },
       "status": "pass"
@@ -593,7 +593,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
         "label": "Satandard fields test fill: cvv",
@@ -609,8 +609,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 244
+          "misMatchPercentage": "0.04",
+          "analysisTime": 278
         }
       },
       "status": "pass"
@@ -618,7 +618,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
         "label": "Satandard fields test fill: cvv",
@@ -634,8 +634,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 213
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -643,7 +642,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
         "label": "Satandard fields test fill: cvv",
@@ -667,7 +666,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180814-213312/backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20180815-174915/backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
         "label": "Satandard fields test fill: cvv",
@@ -684,7 +683,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 178
+          "analysisTime": 259
         }
       },
       "status": "pass"
