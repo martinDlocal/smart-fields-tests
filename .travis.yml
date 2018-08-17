@@ -4,3 +4,9 @@ services:
   - docker
 node_js:
   - "8"
+notifications:
+  email:
+    - martin@dlocal.com
+    - gimena.bernadet@dlocal.com
+  on_success: always
+  on_failure: always
