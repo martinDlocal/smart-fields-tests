@@ -42,7 +42,7 @@
   "scenarios": [
     {
       "label": "Satandard fields test",
-      "url": "http://host.docker.internal:4001/standard.html",
+      "url": "http://localhost:4001/standard.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
@@ -60,7 +60,7 @@
     },
     {
       "label": "Satandard fields test fill: number",
-      "url": "http://host.docker.internal:4001/standard.html",
+      "url": "http://localhost:4001/standard.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
@@ -79,7 +79,7 @@
     },
     {
       "label": "Satandard fields test fill: expiration",
-      "url": "http://host.docker.internal:4001/standard.html",
+      "url": "http://localhost:4001/standard.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
@@ -98,7 +98,7 @@
     },
     {
       "label": "Satandard fields test fill: cvv",
-      "url": "http://host.docker.internal:4001/standard.html",
+      "url": "http://localhost:4001/standard.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
