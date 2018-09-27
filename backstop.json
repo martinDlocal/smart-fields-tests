@@ -1,7 +1,6 @@
 {
   "id": "backstop_default",
-  "viewports": [
-    {
+  "viewports": [{
       "label": "viewport 320",
       "width": 320,
       "height": 640
@@ -39,8 +38,7 @@
   ],
   "onBeforeScript": "puppet/onBefore.js",
   "onReadyScript": "puppet/onReady.js",
-  "scenarios": [
-    {
+  "scenarios": [{
       "label": "Satandard fields test",
       "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/standard.html",
       "referenceUrl": "",
@@ -99,6 +97,81 @@
     {
       "label": "Satandard fields test fill: cvv",
       "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/standard.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.3,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/fillValidCVV.js"
+    },
+    {
+      "label": "TiendaMia fields test",
+      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/tiendamia.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.3,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "TiendaMia fields test fill: number",
+      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/tiendamia.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.3,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/fillValidCreditCard.js"
+    },
+    {
+      "label": "TiendaMia fields test fill: expiration",
+      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/tiendamia.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.3,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/fillValidExpirationDate.js"
+    },
+    {
+      "label": "TiendaMia fields test fill: cvv",
+      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/tiendamia.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",

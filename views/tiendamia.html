@@ -1,0 +1,311 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="https://tiendamia.com/skin/frontend/traigo/traigo/css/styles-v99.css"
+        media="all">
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+        * {
+            box-sizing: border-box;
+        }
+
+        
+
+        .example {
+            margin-top: 100px;
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 750px;
+            padding-bottom: 20px;
+        }
+
+        .paypal-save-button-inner {
+            background: #ec7527;
+            color: #fff;
+            width: 100%;
+            padding: 15px 0;
+            font-size: 20px;
+            border: 0;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .wrap_paymentmethod #payment_form_astropaystreamlinetarjetas {
+            width: 380px;
+            margin: 15px auto 0;
+        }
+        .agreement-content {
+            height: auto !important;
+            padding: 10px 0;
+            overflow: auto;
+            border: unset !important;
+            background-color: unset !important;
+        }
+
+        .wrap_paymentmethod {
+            background: #fff;
+            border-radius: 5px;
+            border: 1px solid #d3d3d3;
+            padding: 10px;
+            margin-bottom: 10px;
+            width: 100%;
+            position: relative;
+            box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+        }
+
+
+
+
+        .form-list label {
+            float: left;
+            color: #000;
+            font-weight: 700;
+            position: relative;
+            z-index: 0;
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+
+        label {
+            padding-bottom: 2px;
+        }
+
+        .fields label {
+            z-index: 1;
+            top: 3px;
+            float: left;
+            font-weight: 400;
+        }
+
+        .fields input, .fields select {
+            width: 100%;
+            border: 1px solid #a6a6a6;
+            background-color: #fff;
+            border-radius: 3px;
+            text-align: left;
+            padding: 0 10px;
+            font-size: 12px;
+            height: 35px;
+            -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.5), 0 1px 0 rgba(0,0,0,.07) inset;
+            -moz-box-shadow: 0 1px 0 rgba(255,255,255,.5),0 1px 0 rgba(0,0,0,.07) inset;
+            box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+
+        }
+
+        .input-box{
+            width: 100% !important;
+            position: relative;
+        }
+
+        .dropdown_arrow {
+            position: absolute;
+            width: 21px;
+            height: 21px;
+            background-position: -413px -125px;
+            top: 8px;
+            right: 10px;
+            pointer-events: none;
+            background-color: #fff;
+        }   
+
+        .field {
+            width: 100%;
+            margin-top: 3px;
+            position: relative;
+        }
+
+        .card_exp {
+            position: absolute !important;
+            left: 256px;
+            font-size: 11px;
+            font-weight: 400;
+        }
+
+        .card_cvv {
+            position: absolute !important;
+            left: 313px;
+            font-size: 11px;
+            font-weight: 400;
+        }
+
+        .DlocalField {
+            border: 1px solid #a6a6a6;
+            background-color: #fff;
+            border-radius: 3px;
+            color: #333;
+            font-size: 13px;
+            padding: 10px 12px;
+            width: 100%;
+        }
+
+    </style>
+
+<body>
+    <main class="example example-1">
+        <div class="wrap_paymentmethod pay_method_astropaystreamlinetarjetas">
+            <dd class="pay_method_astropaystreamlinetarjetas">
+                <ul class="form-list checkout-agreements astropaystreamlinetarjetas_uy" id="payment_form_astropaystreamlinetarjetas">
+                    <li class="fields">
+                        <p class="solo_ar solo_uy" style="margin: 0 0 0 -50px;width: 500px; color: #121212;">
+                            Ingresá los datos de tu tarjeta y
+                            <span style="color: #ec7527; font-weight: bold">seleccioná la cantidad de cuotas</span>
+                            que más te convenga.
+                        </p>
+                        <div class="astropaystreamlinetarjetas-instructions-content agreement-content">
+                            <div class="field">
+                                <label for="card-holder">Nombre del titular</label>
+                                <div class="input-box">
+                                    <input id="card-holder" type="text" value="Gimena Bernadet" name="card-holder"
+                                        placeholder="Tal cual aparece en la tarjeta">
+                                </div>
+                                <div class="validation-advice" id="dlocal_error_msg_holder"></div>
+                            </div>
+                            <div class="field">
+                                <label class="card_num">Número de tarjeta</label>
+                                <label class="card_exp">Venci.</label>
+                                <label class="card_cvv">Código</label>
+                                <div class="input-box">
+                                    <div id="container">
+
+                                    </div>
+                                    <div id="card-field-error" class="error">
+                                    </div>
+                                </div>
+                                <div class="validation-advice" id="dlocal_error_msg_card"></div>
+                            </div>
+                            <div class="field">
+                                <label for="installments">Cuotas a pagar</label>
+                                <div class="input-box">
+                                    <select id="installments">
+                                        <option value="" style="color:#7f7f7f;">Ver cuotas disponibles</option>
+                                    </select>
+                                    <span class="imagen_sprite dropdown_arrow">▼</span>
+                                </div>
+                                <div class="validation-advice" id="dlocal_error_msg_installments"></div>
+                            </div>
+                        </div>
+                    </li>
+                    <div class="validation-advice" id="dlocal_error_msg"></div>
+                </ul>
+
+                <ul id="payment_form_astropaystreamlinetarjetas" style="">
+                    <button id="save-button-inner_astropaystreamlinetarjetas" class="p_method_button_astropaystreamlinetarjetas paypal-save-button-inner"
+                        type="button">
+                        Continuar
+                    </button>
+                    <div class="clear"></div>
+                    <div class="clear"></div>
+                    <p class="continuar-terminos">*Al continuar está aceptando nuestros <a href="https://tiendamia.com/terminos-condiciones"
+                            target="_blank">Términos y Condiciones</a></p>
+                    <p style="font-size: 12px;text-align: center;color: #696969;">*La
+                        cantidad
+                        de cuotas disponibles está sujeta a las condiciones crediticias de Mercado Pago</p>
+                </ul>
+
+            </dd>
+        </div>
+    </main>
+    <script src="https://js-sandbox.dlocal.com"></script>
+    <script>
+        const dlocalInstance = dlocal('efba0f53-252d-4da2-806c-3cb694a1e2d8');
+
+        const fields = dlocalInstance.fields({
+            locale: "es",
+            country: "AR"
+        });
+
+        const cardField = fields.create('card', {
+            style: {
+                base: {
+                    fontSize: "12px",
+                    fontFamily: "Arial, Helvetica, sans-serif",
+                    lineHeight: '12px',
+                    fontWeight: '400',
+                    color: "#000",
+                    '::placeholder': {
+                        color: "#7f7f7f"
+                    },
+                    iconColor: "#7f7f7f"
+                }
+            }
+        });
+
+
+        (function () {
+            var formSended = false;
+            var actualBrand = null;
+            var currency = "USD";
+            var totalAmount = 1000;
+
+            document.getElementById('card-holder').onkeypress = function () {
+                validateCardHolder(this);
+            }
+
+            document.getElementById('installments').onchange = function () {
+                validateInstallments(this);
+            }
+
+            cardField.on('change', function (cardStatus) {
+                document.getElementById('card-field-error').innerHTML = "";
+
+                if (cardStatus.brand && actualBrand !== cardStatus.brand) {
+                    actualBrand = cardStatus.brand;
+
+                    dlocalInstance.createInstallmentsPlan(cardField, totalAmount, currency)
+                        .then((result) => {
+                            var installmentsSelect = document.getElementById('installments');
+                            buildInstallments(installmentsSelect, result.installments);
+                        }).catch((result) => {
+                            console.error(result);
+                        });
+                }
+            });
+
+            cardField.mount(document.getElementById('container'));
+
+            function validateCardHolder(cardHolderInput) {
+                cardHolderInput.parentElement.classList.remove("--invalid");
+                if (!cardHolderInput.value) {
+                    cardHolderInput.parentElement.classList.add("--invalid");
+                    return false;
+                }
+                return true;
+            }
+
+            function validateInstallments(installmentsInput) {
+                installmentsInput.parentElement.parentElement.classList.remove("--invalid");
+                if (!installmentsInput.value) {
+                    installmentsInput.parentElement.parentElement.classList.add("--invalid");
+                    return false;
+                }
+                return true;
+            }
+
+            function showFieldsError(error) {
+                document.getElementById('card-field-error').innerHTML = "";
+                if (error) {
+                    document.getElementById('card-field-error').innerHTML = result.error.message;
+                }
+            }
+
+            function buildInstallments(installmentsInput, installmentsPlan) {
+                const installmentsOptions = installmentsPlan.installments.reduce(function (options, plan) {
+                    options += "<option value=" + plan.id + ">" + plan.installments + " de " + currency +
+                        " " + plan.installment_amount + " (Total : " + currency + " " + plan.total_amount +
+                        ")</option>";
+                    return options;
+                }, "");
+                installmentsInput.disabled = false;
+                installmentsInput.innerHTML = installmentsOptions;
+            }
+        })();
+    </script>
+
+</body>
+
+</html>
