@@ -1,6 +1,7 @@
 language: node_js
 sudo: required
-os: mac
+os: 
+  - osx
 before_install:
   - npm install -g backstopjs
 services:
