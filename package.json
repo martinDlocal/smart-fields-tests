@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start-server": "npm start",
-    "start-backstop": "docker run --rm -v $(pwd):/src backstopjs/backstopjs test",
+    "start-backstop": "backstop test",
     "start": "http-server ./views -p 4001",
     "test": "start-server-and-test start-server 4001 start-backstop"
   },
