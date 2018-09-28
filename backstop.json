@@ -62,7 +62,7 @@
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
-      "delay": 4000,
+      "delay": 6000,
       "hideSelectors": [],
       "removeSelectors": [],
       "hoverSelector": "",
@@ -115,7 +115,7 @@
     },
     {
       "label": "TiendaMia fields test",
-      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/tiendamia.html",
+      "url": "http://host.docker.internal:4001/tiendamia.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
@@ -133,7 +133,7 @@
     },
     {
       "label": "TiendaMia fields test fill: number",
-      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/tiendamia.html",
+      "url": "http://host.docker.internal:4001/tiendamia.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
@@ -152,7 +152,7 @@
     },
     {
       "label": "TiendaMia fields test fill: expiration",
-      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/tiendamia.html",
+      "url": "http://host.docker.internal:4001/tiendamia.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
@@ -171,7 +171,7 @@
     },
     {
       "label": "TiendaMia fields test fill: cvv",
-      "url": "https://s3-eu-west-1.amazonaws.com/static-sandbox-dlocal/fields/visual-reggresion/tiendamia.html",
+      "url": "http://host.docker.internal:4001/tiendamia.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
