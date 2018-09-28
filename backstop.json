@@ -1,6 +1,7 @@
 {
   "id": "backstop_default",
-  "viewports": [{
+  "viewports": [
+    {
       "label": "viewport 320",
       "width": 320,
       "height": 640
@@ -38,7 +39,8 @@
   ],
   "onBeforeScript": "puppet/onBefore.js",
   "onReadyScript": "puppet/onReady.js",
-  "scenarios": [{
+  "scenarios": [
+    {
       "label": "Satandard fields test",
       "url": "http://localhost:4001/standard.html",
       "referenceUrl": "",
@@ -137,7 +139,7 @@
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
-      "delay": 4000,
+      "delay": 7000,
       "hideSelectors": [],
       "removeSelectors": [],
       "hoverSelector": "",
