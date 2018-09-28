@@ -19,5 +19,5 @@ module.exports = async (page, scenario, vp) => {
   await page.keyboard.press("1");
   await page.keyboard.press("1");
 
-  await require("../sleep")(5000);
+  await require("../sleep")(10000);
 };

@@ -1,5 +1,9 @@
 language: node_js
 sudo: required
+os: 
+  - osx
+before_install:
+  - npm install -g backstopjs
 services:
   - docker
 node_js:
