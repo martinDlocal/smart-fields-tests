@@ -14,5 +14,3 @@ notifications:
     - gimena.bernadet@dlocal.com
   on_success: always
   on_failure: always
-  slack: dlocal:zzYuEcKwrFHspt34YyLf2xvg    
-
