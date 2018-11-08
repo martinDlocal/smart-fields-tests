@@ -11,13 +11,13 @@ npm install
 
 ## Run local
 
-###Console 1:
+### Console 1:
 
 ```
 npm start
 ```
 
-###Console 2:
+### Console 2:
 
 ```
 backstop test
