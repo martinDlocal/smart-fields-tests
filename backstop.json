@@ -2,27 +2,51 @@
   "id": "backstop_default",
   "viewports": [
     {
-      "label": "phone",
+      "label": "viewport 320",
       "width": 320,
-      "height": 480
+      "height": 640
     },
     {
-      "label": "tablet",
-      "width": 1024,
-      "height": 768
+      "label": "viewport 360",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "label": "viewport 375",
+      "width": 375,
+      "height": 640
+    },
+    {
+      "label": "viewport 411",
+      "width": 411,
+      "height": 640
+    },
+    {
+      "label": "viewport 414",
+      "width": 414,
+      "height": 640
+    },
+    {
+      "label": "viewport 768",
+      "width": 414,
+      "height": 640
+    },
+    {
+      "label": "viewport 1024",
+      "width": 414,
+      "height": 640
     }
   ],
   "onBeforeScript": "puppet/onBefore.js",
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
-      "label": "BackstopJS Homepage",
-      "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "https://garris.github.io/BackstopJS/",
+      "label": "Satandard fields test",
+      "url": "http://localhost:4001/standard.html",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
-      "delay": 0,
+      "delay": 4000,
       "hideSelectors": [],
       "removeSelectors": [],
       "hoverSelector": "",
@@ -31,8 +55,65 @@
       "selectors": [],
       "selectorExpansion": true,
       "expect": 0,
-      "misMatchThreshold" : 0.1,
+      "misMatchThreshold": 0.3,
       "requireSameDimensions": true
+    },
+    {
+      "label": "Satandard fields test fill: number",
+      "url": "http://localhost:4001/standard.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 6000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.3,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/fillValidCreditCard.js"
+    },
+    {
+      "label": "Satandard fields test fill: expiration",
+      "url": "http://localhost:4001/standard.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.3,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/fillValidExpirationDate.js"
+    },
+    {
+      "label": "Satandard fields test fill: cvv",
+      "url": "http://localhost:4001/standard.html",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 4000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 0.3,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/fillValidCVV.js"
     }
   ],
   "paths": {
@@ -42,10 +123,21 @@
     "html_report": "backstop_data/html_report",
     "ci_report": "backstop_data/ci_report"
   },
-  "report": ["browser"],
+  "ci": {
+    "format": "junit",
+    "testReportFileName": "test-xunit",
+    "testSuiteName": "backstopJS"
+  },
+  "report": [
+    "CI"
+  ],
   "engine": "puppeteer",
   "engineOptions": {
-    "args": ["--no-sandbox"]
+    "ignoreHTTPSErrors": true,
+    "args": [
+      "--no-sandbox",
+      "--disable-setuid-sandbox"
+    ]
   },
   "asyncCaptureLimit": 5,
   "asyncCompareLimit": 50,
