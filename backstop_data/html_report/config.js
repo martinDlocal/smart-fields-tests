@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
         "label": "Satandard fields test",
@@ -28,7 +28,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
         "label": "Satandard fields test",
@@ -44,7 +44,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.26",
+          "analysisTime": 365
         }
       },
       "status": "pass"
@@ -52,7 +53,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
         "label": "Satandard fields test",
@@ -68,7 +69,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.04",
+          "analysisTime": 333
         }
       },
       "status": "pass"
@@ -76,7 +78,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
         "label": "Satandard fields test",
@@ -92,7 +94,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.30",
+          "analysisTime": 389
         }
       },
       "status": "pass"
@@ -100,7 +103,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
         "label": "Satandard fields test",
@@ -116,7 +119,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.05",
+          "analysisTime": 464
         }
       },
       "status": "pass"
@@ -124,7 +128,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
         "label": "Satandard fields test",
@@ -140,7 +144,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 386
         }
       },
       "status": "pass"
@@ -148,7 +153,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
         "label": "Satandard fields test",
@@ -164,7 +169,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 324
         }
       },
       "status": "pass"
@@ -172,7 +178,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
         "label": "Satandard fields test fill: number",
@@ -196,7 +202,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
         "label": "Satandard fields test fill: number",
@@ -220,7 +226,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
         "label": "Satandard fields test fill: number",
@@ -244,7 +250,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
         "label": "Satandard fields test fill: number",
@@ -268,7 +274,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
         "label": "Satandard fields test fill: number",
@@ -292,7 +298,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
         "label": "Satandard fields test fill: number",
@@ -316,7 +322,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
         "label": "Satandard fields test fill: number",
@@ -340,7 +346,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
         "label": "Satandard fields test fill: expiration",
@@ -356,7 +362,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 295
         }
       },
       "status": "pass"
@@ -364,7 +371,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
         "label": "Satandard fields test fill: expiration",
@@ -380,7 +387,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 287
         }
       },
       "status": "pass"
@@ -388,7 +396,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
         "label": "Satandard fields test fill: expiration",
@@ -404,7 +412,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 89
         }
       },
       "status": "pass"
@@ -412,7 +421,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
         "label": "Satandard fields test fill: expiration",
@@ -428,7 +437,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 333
         }
       },
       "status": "pass"
@@ -436,7 +446,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
         "label": "Satandard fields test fill: expiration",
@@ -452,7 +462,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 295
         }
       },
       "status": "pass"
@@ -460,7 +471,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
         "label": "Satandard fields test fill: expiration",
@@ -476,7 +487,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 201
         }
       },
       "status": "pass"
@@ -484,7 +496,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
         "label": "Satandard fields test fill: expiration",
@@ -500,7 +512,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.00",
+          "analysisTime": 351
         }
       },
       "status": "pass"
@@ -508,7 +521,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
         "label": "Satandard fields test fill: cvv",
@@ -532,7 +545,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
         "label": "Satandard fields test fill: cvv",
@@ -556,7 +569,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
         "label": "Satandard fields test fill: cvv",
@@ -580,7 +593,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
         "label": "Satandard fields test fill: cvv",
@@ -604,7 +617,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
         "label": "Satandard fields test fill: cvv",
@@ -628,7 +641,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
         "label": "Satandard fields test fill: cvv",
@@ -652,685 +665,13 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
         "label": "Satandard fields test fill: cvv",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.3,
         "url": "http://localhost:4001/standard.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 1024",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_0_document_0_viewport_320.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_0_document_0_viewport_320.png",
-        "label": "TiendaMia fields test",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 320",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_0_document_1_viewport_360.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_0_document_1_viewport_360.png",
-        "label": "TiendaMia fields test",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 360",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_0_document_2_viewport_375.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_0_document_2_viewport_375.png",
-        "label": "TiendaMia fields test",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 375",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_0_document_3_viewport_411.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_0_document_3_viewport_411.png",
-        "label": "TiendaMia fields test",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 411",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_0_document_4_viewport_414.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_0_document_4_viewport_414.png",
-        "label": "TiendaMia fields test",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 414",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_0_document_5_viewport_768.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_0_document_5_viewport_768.png",
-        "label": "TiendaMia fields test",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 768",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_0_document_6_viewport_1024.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_0_document_6_viewport_1024.png",
-        "label": "TiendaMia fields test",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 1024",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_number_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_number_0_document_0_viewport_320.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_number_0_document_0_viewport_320.png",
-        "label": "TiendaMia fields test fill: number",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 320",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_number_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_number_0_document_1_viewport_360.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_number_0_document_1_viewport_360.png",
-        "label": "TiendaMia fields test fill: number",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 360",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_number_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_number_0_document_2_viewport_375.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_number_0_document_2_viewport_375.png",
-        "label": "TiendaMia fields test fill: number",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 375",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_number_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_number_0_document_3_viewport_411.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_number_0_document_3_viewport_411.png",
-        "label": "TiendaMia fields test fill: number",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 411",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_number_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_number_0_document_4_viewport_414.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_number_0_document_4_viewport_414.png",
-        "label": "TiendaMia fields test fill: number",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 414",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_number_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_number_0_document_5_viewport_768.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_number_0_document_5_viewport_768.png",
-        "label": "TiendaMia fields test fill: number",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 768",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_number_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_number_0_document_6_viewport_1024.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_number_0_document_6_viewport_1024.png",
-        "label": "TiendaMia fields test fill: number",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 1024",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_0_viewport_320.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_expiration_0_document_0_viewport_320.png",
-        "label": "TiendaMia fields test fill: expiration",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 320",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_1_viewport_360.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_expiration_0_document_1_viewport_360.png",
-        "label": "TiendaMia fields test fill: expiration",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 360",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_2_viewport_375.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_expiration_0_document_2_viewport_375.png",
-        "label": "TiendaMia fields test fill: expiration",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 375",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_3_viewport_411.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_expiration_0_document_3_viewport_411.png",
-        "label": "TiendaMia fields test fill: expiration",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 411",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_4_viewport_414.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_expiration_0_document_4_viewport_414.png",
-        "label": "TiendaMia fields test fill: expiration",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 414",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_5_viewport_768.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_expiration_0_document_5_viewport_768.png",
-        "label": "TiendaMia fields test fill: expiration",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 768",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_expiration_0_document_6_viewport_1024.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_expiration_0_document_6_viewport_1024.png",
-        "label": "TiendaMia fields test fill: expiration",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 1024",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_0_viewport_320.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_cvv_0_document_0_viewport_320.png",
-        "label": "TiendaMia fields test fill: cvv",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 320",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_1_viewport_360.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_cvv_0_document_1_viewport_360.png",
-        "label": "TiendaMia fields test fill: cvv",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 360",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_2_viewport_375.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_cvv_0_document_2_viewport_375.png",
-        "label": "TiendaMia fields test fill: cvv",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 375",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_3_viewport_411.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_cvv_0_document_3_viewport_411.png",
-        "label": "TiendaMia fields test fill: cvv",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 411",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_4_viewport_414.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_cvv_0_document_4_viewport_414.png",
-        "label": "TiendaMia fields test fill: cvv",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 414",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_5_viewport_768.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_cvv_0_document_5_viewport_768.png",
-        "label": "TiendaMia fields test fill: cvv",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
-        "referenceUrl": "",
-        "expect": 0,
-        "viewportLabel": "viewport 768",
-        "diff": {
-          "isSameDimensions": true,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 0
-          },
-          "misMatchPercentage": "0.00"
-        }
-      },
-      "status": "pass"
-    },
-    {
-      "pair": {
-        "reference": "../bitmaps_reference/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20180928-114120/backstop_default_TiendaMia_fields_test_fill_cvv_0_document_6_viewport_1024.png",
-        "selector": "document",
-        "fileName": "backstop_default_TiendaMia_fields_test_fill_cvv_0_document_6_viewport_1024.png",
-        "label": "TiendaMia fields test fill: cvv",
-        "requireSameDimensions": true,
-        "misMatchThreshold": 0.3,
-        "url": "http://localhost:4001/tiendamia.html",
         "referenceUrl": "",
         "expect": 0,
         "viewportLabel": "viewport 1024",
