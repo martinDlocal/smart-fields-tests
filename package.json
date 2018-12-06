@@ -13,6 +13,6 @@
     "http-server": "^0.11.1"
   },
   "devDependencies": {
-    "start-server-and-test": "^1.7.1"
+    "start-server-and-test": "^1.7.11"
   }
 }
