@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_0_viewport_320.png",
         "label": "Satandard fields test",
@@ -28,7 +28,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_1_viewport_360.png",
         "label": "Satandard fields test",
@@ -44,8 +44,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.26",
-          "analysisTime": 365
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -53,7 +52,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_2_viewport_375.png",
         "label": "Satandard fields test",
@@ -69,8 +68,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.04",
-          "analysisTime": 333
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -78,7 +76,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_3_viewport_411.png",
         "label": "Satandard fields test",
@@ -94,8 +92,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.30",
-          "analysisTime": 389
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -103,7 +100,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_4_viewport_414.png",
         "label": "Satandard fields test",
@@ -119,8 +116,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.05",
-          "analysisTime": 464
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -128,7 +124,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_5_viewport_768.png",
         "label": "Satandard fields test",
@@ -144,8 +140,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 386
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -153,7 +148,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_0_document_6_viewport_1024.png",
         "label": "Satandard fields test",
@@ -169,8 +164,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 324
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -178,7 +172,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_0_viewport_320.png",
         "label": "Satandard fields test fill: number",
@@ -202,7 +196,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_1_viewport_360.png",
         "label": "Satandard fields test fill: number",
@@ -226,7 +220,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_2_viewport_375.png",
         "label": "Satandard fields test fill: number",
@@ -250,7 +244,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_3_viewport_411.png",
         "label": "Satandard fields test fill: number",
@@ -274,7 +268,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_4_viewport_414.png",
         "label": "Satandard fields test fill: number",
@@ -298,7 +292,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_5_viewport_768.png",
         "label": "Satandard fields test fill: number",
@@ -322,7 +316,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_number_0_document_6_viewport_1024.png",
         "label": "Satandard fields test fill: number",
@@ -346,7 +340,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_0_viewport_320.png",
         "label": "Satandard fields test fill: expiration",
@@ -362,8 +356,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 295
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -371,7 +364,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_1_viewport_360.png",
         "label": "Satandard fields test fill: expiration",
@@ -387,8 +380,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 287
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -396,7 +388,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_2_viewport_375.png",
         "label": "Satandard fields test fill: expiration",
@@ -412,8 +404,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 89
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -421,7 +412,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_3_viewport_411.png",
         "label": "Satandard fields test fill: expiration",
@@ -437,8 +428,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 333
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -446,7 +436,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_4_viewport_414.png",
         "label": "Satandard fields test fill: expiration",
@@ -462,8 +452,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 295
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -471,7 +460,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_5_viewport_768.png",
         "label": "Satandard fields test fill: expiration",
@@ -487,8 +476,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 201
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -496,7 +484,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_expiration_0_document_6_viewport_1024.png",
         "label": "Satandard fields test fill: expiration",
@@ -512,8 +500,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 351
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -521,7 +508,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_0_viewport_320.png",
         "label": "Satandard fields test fill: cvv",
@@ -545,7 +532,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_1_viewport_360.png",
         "label": "Satandard fields test fill: cvv",
@@ -569,7 +556,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_2_viewport_375.png",
         "label": "Satandard fields test fill: cvv",
@@ -593,7 +580,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_3_viewport_411.png",
         "label": "Satandard fields test fill: cvv",
@@ -617,7 +604,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_4_viewport_414.png",
         "label": "Satandard fields test fill: cvv",
@@ -641,7 +628,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_5_viewport_768.png",
         "label": "Satandard fields test fill: cvv",
@@ -665,7 +652,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
-        "test": "../bitmaps_test/20181206-104444/backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
+        "test": "../bitmaps_test/20190425-164423/backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
         "selector": "document",
         "fileName": "backstop_default_Satandard_fields_test_fill_cvv_0_document_6_viewport_1024.png",
         "label": "Satandard fields test fill: cvv",
